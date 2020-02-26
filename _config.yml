@@ -1,0 +1,110 @@
+layout: stacked
+style: dark
+
+user:
+  email: italo.i@live.com
+  bio: 'Italo José is Microsoft MVP in AI category and works at Estratégia Concursos as a machine learning engineer, he is Lead of Developer Circle SP from Facebook in São Paulo. Also is a Self-driving car assistant teacher at FIAP university in the mechatronic course and win (3º) the real self-driving car global hackathon in China by Pix Moving in 2019. He contributes with the community speaking about AI, mentoring communities by the communup.tech project and writing on medium and in the IMaster (IT Forum) as a columnist'
+  sponsorLink: https://bit.ly/support-lsantos
+  GA: UA-102442319-1
+
+plugins:
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jemoji
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+
+projects:
+  sort_by: stars
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 6
+  exclude:
+    forks: true
+    projects:
+#       - gotql
+#       - zaqar
+#       - my-notes
+#       - hermod
+#       - irontitan/tardis
+#       - irontitan/paradox
+
+social_media:
+  # behance: your_username
+  # dribbble: your_username
+  facebook: italojs
+  # patreon: lsantos
+  linkedin: italojs
+  mvp: 5003355
+  stackoverflow: 17502
+  twitter: italojs_
+  telegram: italojs
+  # devto: khaosdoctor
+  medium: italojs
+  # speakerdeck: khaosdoctor
+  # youtube: your_username
+
+topics:
+  - name: NodeJS
+    web_url: https://github.com/topics/nodejs
+    image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/nodejs/nodejs.png
+
+  - name: JavaScript
+    web_url: https://github.com/topics/javascript
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
+
+  - name: TypeScript
+    web_url: https://github.com/topics/typescript
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png
+
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
+
+  - name: Kubernetes
+    web_url: https://github.com/topics/kubernetes
+    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png
+
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/python/python.png
+
+  - name: Go
+    web_url: https://github.com/topics/go
+    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/go/go.png
+
+  - name: Vue
+    web_url: https://github.com/topics/vue
+    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/vue/vue.png
+
+  - name: Terraform
+    web_url: https://github.com/topics/terraform
+    image_url: https://raw.githubusercontent.com/github/explore/a78365e1ed698ba6441a91508591e863cf1f9590/topics/terraform/terraform.png
+
+  - name: Awesome Lists
+    web_url: https://github.com/topics/awesome
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png
+  
+  - name: Azure
+    web_url: https://github.com/topics/azure
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png
+  
+  - name: docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
+
+  - name: .NET
+    web_url: https://github.com/topics/dotnet
+    image_url: https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png
+
+  - name: Express
+    web_url: https://github.com/topics/express
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png
