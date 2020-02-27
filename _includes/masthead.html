@@ -14,15 +14,12 @@
   {% endif %}
 </p>
 
-<br/>
-
 {% for arm in site.user.arms %}
-<img src={{arm}} width="150" style="padding-left:10px;">
+<img src={{arm}} width="150" style="padding-left:20px;padding-bottom:20px">
 {% endfor %}
 
-<br/>
-
 {% if include.metadata %}
+  <br/>
   <div class="f4 mb-6">
     {% if user.name %}
       <div class="{{ metadata_styles }}">

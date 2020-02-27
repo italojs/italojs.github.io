@@ -5,7 +5,8 @@ user:
   email: italo.i@live.com
   bio: 'Italo José is Microsoft MVP in AI category and works at Estratégia Concursos as a machine learning engineer, he is Lead of Developer Circle SP from Facebook in São Paulo. Also is a Self-driving car assistant teacher at FIAP university in the mechatronic course and win (3º) the real self-driving car global hackathon in China by Pix Moving in 2019. He contributes with the community speaking about AI, mentoring communities by the communup.tech project and writing on medium and in the IMaster (IT Forum) as a columnist'
   # sponsorLink: your_sponsor_link
-  arms: ['https://camo.githubusercontent.com/10b1eea06f08917338c98d9ceb9795d51a5dcea6/68747470733a2f2f7365637572652e6d65657475707374617469632e636f6d2f70686f746f732f6576656e742f612f652f632f662f686967687265735f3435323830343735312e6a706567', 'https://tiagomcardoso.files.wordpress.com/2019/05/mvp_logo_horizontal_preferred_cyan300_cmyk_300ppi.png?w=1100']
+  arms: ['https://tiagomcardoso.files.wordpress.com/2019/05/mvp_logo_horizontal_preferred_cyan300_cmyk_300ppi.png?w=1100',
+  'https://camo.githubusercontent.com/10b1eea06f08917338c98d9ceb9795d51a5dcea6/68747470733a2f2f7365637572652e6d65657475707374617469632e636f6d2f70686f746f732f6576656e742f612f652f632f662f686967687265735f3435323830343735312e6a706567']
   # GA: your_google_analitcs_key
 
 plugins:
@@ -34,7 +35,7 @@ social_media:
   # behance: your_username
   # dribbble: your_username
   facebook: italojs
-  # patreon: lsantos
+  # patreon: your_username
   linkedin: italojs
   mvp: 5003355
   stackoverflow: 17502
