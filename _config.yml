@@ -1,9 +1,9 @@
-layout: stacked
-style: dark
+layout: default
+style: whrite
 
 user:
   email: italo.i@live.com
-  bio: 'Italo José is Microsoft MVP in AI category and works at Estratégia Concursos as a machine learning engineer, he is Lead of Developer Circle SP from Facebook in São Paulo. Also is a Self-driving car assistant teacher at FIAP university in the mechatronic course and win (3º) the real self-driving car global hackathon in China by Pix Moving in 2019. He contributes with the community speaking about AI, mentoring communities by the communup.tech project and writing on medium and in the IMaster (IT Forum) as a columnist'
+  bio: 'Italo José is Microsoft MVP in AI category and works at Estratégia Concursos as a machine learning engineer, he is Lead of Developer Circle SP from Facebook in São Paulo. Also is a Self-driving car assistant teacher at FIAP university in the mechatronic course and win (3º) the real self-driving car global hackathon in China by Pix Moving in 2019. He contributes with the community speaking about AI, mentoring communities by the communup.tech project and writing on medium and in the IMaster (IT Forum) as a columnist<br><img src="https://tiagomcardoso.files.wordpress.com/2019/05/mvp_logo_horizontal_preferred_cyan300_cmyk_300ppi.png?w=1100" width="250" ></img>'
   sponsorLink: https://bit.ly/support-lsantos
   GA: UA-102442319-1
 
@@ -27,15 +27,7 @@ projects:
   #   - pushed
   #   - stars
   limit: 6
-  exclude:
-    forks: true
-    projects:
-#       - gotql
-#       - zaqar
-#       - my-notes
-#       - hermod
-#       - irontitan/tardis
-#       - irontitan/paradox
+
 
 social_media:
   # behance: your_username
